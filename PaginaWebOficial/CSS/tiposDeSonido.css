@@ -1,0 +1,22 @@
+/* configuración de la tabla 2*/
+#titulo_naranjo{
+    color: orange; 
+    size: 40;
+    font: "Comic Sans MS,Arial,Verdana";
+    margin-top: 100px;
+} 
+#img2{
+    margin-top: 90px;
+    margin-bottom: 60px;
+}
+.tabla2{
+    font-family: 'Helvetica',sans-serif;
+}
+.caras_gato{
+    width:200px;
+    height:100px;
+}
+.ruidos_gato{
+    width:110px;
+    height: 100px;
+}
